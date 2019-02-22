@@ -9,5 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-algolia', '~> 1.4'
   gem 'jekyll-archives', '~> 2.1'
-  gem 'jemoji', '~> 0.10.1'
+  gem 'jemoji', '~> 0.10.2'
 end

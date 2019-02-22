@@ -1,11 +1,11 @@
 # Site settings
-title: Felix Yang's Blog
-email: felixpy.1993@gmail.com
+title: voidm4p's Blog
+email: voidm4p@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  👻 Try it yourself
+  👻 void m4p()
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'https://felixpy.github.io' # the base hostname & protocol for your site
-github_username: felixpy
+url: 'https://voidm4p.me' # the base hostname & protocol for your site
+github_username: voidm4p
 
 permalink: /:year/:month/:day/:title:output_ext
 
@@ -51,5 +51,5 @@ jekyll-archives:
     tag: /tag/:name/
 
 algolia:
-  application_id: AQN226ZOWS
+  application_id: N8HJNBZA6P
   index_name: jekyll_blog

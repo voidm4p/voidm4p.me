@@ -1,7 +1,7 @@
 (function (global, $) {
   $(function () {
     /* algolia search */
-    var algoliaClient = algoliasearch('AQN226ZOWS', 'e57b0595befbd779c566b2a6defaf5c2')
+    var algoliaClient = algoliasearch('N8HJNBZA6P', 'f98073f5fd6f091629bc6558e41c76b9')
     var algoliaIndexName = algoliaClient.initIndex('jekyll_blog');
 
     $('#header-navbar-search').autocomplete({
