@@ -1,4 +1,4 @@
-# boidm4p's Blog
+# voidm4p's Blog
 
 Personal blog created by jekyll, hosted on github.
 
